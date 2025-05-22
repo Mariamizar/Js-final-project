@@ -1,0 +1,154 @@
+[
+  {
+    "id": 1,
+    "Title": "NIKE PEGASUS TRAIL 5 GTX",
+    "shortdescription": "Waterproof trail running shoes with maximum grip.",
+    "price": 149.99,
+    "category": "shoes",
+    "imageUrl": "https://static.nike.com/a/images/c_limit,w_592,f_auto/t_product_v1/3719870d-392d-4eb7-8e71-bd978e92170d/NIKE+PEGASUS+TRAIL+5+GTX.png"
+  },
+  {
+    "id": 2,
+    "Title": "W PEGASUS TRAIL 5 GTX",
+    "shortdescription": "Designed for women, ideal for wet trail conditions.",
+    "price": 149.99,
+    "category": "shoes",
+    "imageUrl": "https://static.nike.com/a/images/c_limit,w_592,f_auto/t_product_v1/7f673fe1-b535-45c9-8ffe-21573d36a98f/W+PEGASUS+TRAIL+5+GTX.png"
+  },
+  {
+    "id": 3,
+    "Title": "NIKE REACTX PEGASUS TRAIL 5",
+    "shortdescription": "Durable and cushioned for long-distance trail runs.",
+    "price": 139.99,
+    "category": "shoes",
+    "imageUrl": "https://static.nike.com/a/images/c_limit,w_592,f_auto/t_product_v1/9b37887a-16b2-4dc3-9b7e-d186b8b46a91/NIKE+REACTX+PEGASUS+TRAIL+5.png"
+  },
+  {
+    "id": 4,
+    "Title": "W NIKE ZOOMX ZEGAMA TRAIL",
+    "shortdescription": "Ultimate performance for women’s trail running.",
+    "price": 159.99,
+    "category": "shoes",
+    "imageUrl": "https://static.nike.com/a/images/c_limit,w_592,f_auto/t_product_v1/1fb6d586-d184-4aa7-85aa-e0b090d04758/W+NIKE+ZOOMX+ZEGAMA+TRAIL.png"
+  },
+  {
+    "id": 5,
+    "Title": "M NK DFADV UV TRAIL SHIRT JKT",
+    "shortdescription": "Lightweight jacket with UV protection for men.",
+    "price": 119.99,
+    "category": "apparel",
+    "imageUrl": "https://static.nike.com/a/images/c_limit,w_592,f_auto/t_product_v1/4a28dc7d-0bc6-4042-81e1-46c7274ed5ad/M+NK+DFADV+UV+TRAIL+SHIRT+JKT.png"
+  },
+  {
+    "id": 6,
+    "Title": "NIKE REACTX WILDHORSE 10",
+    "shortdescription": "Aggressive grip and plush cushioning for rough terrain.",
+    "price": 139.99,
+    "category": "shoes",
+    "imageUrl": "https://static.nike.com/a/images/c_limit,w_592,f_auto/t_product_v1/9a915e64-b736-4a59-9b1b-973efe96125b/NIKE+REACTX+WILDHORSE+10.png"
+  },
+  {
+    "id": 7,
+    "Title": "M NK SFADV COSMIC PEAKS JKT",
+    "shortdescription": "All-weather jacket with cosmic-inspired design.",
+    "price": 129.99,
+    "category": "apparel",
+    "imageUrl": "https://static.nike.com/a/images/c_limit,w_592,f_auto/t_product_v1/91e713e3-fd38-4102-b45a-1fbd53408365/M+NK+SFADV+COSMIC+PEAKS+JKT.png"
+  },
+  {
+    "id": 8,
+    "Title": "W NK TRAIL DF TANK",
+    "shortdescription": "Breathable and sweat-wicking trail running tank for women.",
+    "price": 39.99,
+    "category": "apparel",
+    "imageUrl": "https://static.nike.com/a/images/c_limit,w_592,f_auto/t_product_v1/3cf4f85c-310e-4429-8216-72ff201de862/W+NK+TRAIL+DF+TANK.png"
+  },
+  {
+    "id": 9,
+    "Title": "W NK TRAIL SFADV JACKET",
+    "shortdescription": "Packable and lightweight windbreaker for trail runners.",
+    "price": 109.99,
+    "category": "apparel",
+    "imageUrl": "https://static.nike.com/a/images/c_limit,w_592,f_auto/t_product_v1/9cc5bb85-e22b-4416-b803-81dc7857ca11/W+NK+TRAIL+SFADV+JACKET.png"
+  },
+  {
+    "id": 10,
+    "Title": "W NK DF GO HR 7/8 TRAIL TGHT",
+    "shortdescription": "High-rise trail leggings with extra stretch and support.",
+    "price": 74.99,
+    "category": "apparel",
+    "imageUrl": "https://static.nike.com/a/images/c_limit,w_592,f_auto/t_product_v1/ed7f6eff-82df-423b-97db-88ab39cb1e4d/W+NK+DF+GO+HR+7%2F8+TRAIL+TGHT.png"
+  },
+  {
+    "id": 11,
+    "Title": "M NK DF TRAIL MIDLAYER HZ",
+    "shortdescription": "Half-zip thermal midlayer for cold-weather trail runs.",
+    "price": 89.99,
+    "category": "apparel",
+    "imageUrl": "https://static.nike.com/a/images/c_limit,w_592,f_auto/t_product_v1/91e67129-3dca-49ba-8562-369297fe2335/M+NK+DF+TRAIL+MIDLAYER+HZ.png"
+  },
+  {
+    "id": 12,
+    "Title": "M NK DFADV SCND SNRSE 5BF SHRT",
+    "shortdescription": "Performance running shorts with moisture management.",
+    "price": 59.99,
+    "category": "apparel",
+    "imageUrl": "https://static.nike.com/a/images/c_limit,w_592,f_auto/t_product_v1/504f0f41-3dc3-4412-83f6-f7428a211df3/M+NK+DFADV+SCND+SNRSE+5BF+SHRT.png"
+  },
+  {
+    "id": 13,
+    "Title": "W NK TRAIL REPEL JKT",
+    "shortdescription": "Weather-resistant lightweight women’s jacket.",
+    "price": 99.99,
+    "category": "apparel",
+    "imageUrl": "https://static.nike.com/a/images/c_limit,w_592,f_auto/t_product_v1/0fc58382-c515-48cb-af2e-995ea9044b5f/W+NK+TRAIL+REPEL+JKT.png"
+  },
+  {
+    "id": 14,
+    "Title": "NIKE ZOOMX ULTRAFLY TRAIL",
+    "shortdescription": "Elite racing shoe built for speed and traction.",
+    "price": 199.99,
+    "category": "shoes",
+    "imageUrl": "https://static.nike.com/a/images/c_limit,w_592,f_auto/t_product_v1/6ae4936a-eb9f-4ef3-99d8-3bbca6b41260/NIKE+ZOOMX+ULTRAFLY+TRAIL.png"
+  },
+  {
+    "id": 7,
+    "Title": "M NK SFADV COSMIC PEAKS JKT",
+    "shortdescription": "All-weather jacket with cosmic-inspired design.",
+    "price": 129.99,
+    "category": "apparel",
+    "imageUrl": "https://static.nike.com/a/images/c_limit,w_592,f_auto/t_product_v1/91e713e3-fd38-4102-b45a-1fbd53408365/M+NK+SFADV+COSMIC+PEAKS+JKT.png"
+  },
+  {
+    "id": 8,
+    "Title": "W NK TRAIL DF TANK",
+    "shortdescription": "Breathable and sweat-wicking trail running tank for women.",
+    "price": 39.99,
+    "category": "apparel",
+    "imageUrl": "https://static.nike.com/a/images/c_limit,w_592,f_auto/t_product_v1/3cf4f85c-310e-4429-8216-72ff201de862/W+NK+TRAIL+DF+TANK.png"
+  },
+  {
+    "id": 9,
+    "Title": "W NK TRAIL SFADV JACKET",
+    "shortdescription": "Packable and lightweight windbreaker for trail runners.",
+    "price": 109.99,
+    "category": "apparel",
+    "imageUrl": "https://static.nike.com/a/images/c_limit,w_592,f_auto/t_product_v1/9cc5bb85-e22b-4416-b803-81dc7857ca11/W+NK+TRAIL+SFADV+JACKET.png"
+  },
+  {
+    "id": 10,
+    "Title": "W NK DF GO HR 7/8 TRAIL TGHT",
+    "shortdescription": "High-rise trail leggings with extra stretch and support.",
+    "price": 74.99,
+    "category": "apparel",
+    "imageUrl": "https://static.nike.com/a/images/c_limit,w_592,f_auto/t_product_v1/ed7f6eff-82df-423b-97db-88ab39cb1e4d/W+NK+DF+GO+HR+7%2F8+TRAIL+TGHT.png"
+  },
+  {
+    "id": 11,
+    "Title": "M NK DF TRAIL MIDLAYER HZ",
+    "shortdescription": "Half-zip thermal midlayer for cold-weather trail runs.",
+    "price": 89.99,
+    "category": "apparel",
+    "imageUrl": "https://static.nike.com/a/images/c_limit,w_592,f_auto/t_product_v1/91e67129-3dca-49ba-8562-369297fe2335/M+NK+DF+TRAIL+MIDLAYER+HZ.png"
+  }
+]
