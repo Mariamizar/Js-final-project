@@ -1,5 +1,4 @@
 document.addEventListener("DOMContentLoaded", () => {
-  // Get product ID from URL
   const urlParams = new URLSearchParams(window.location.search);
   const productId = urlParams.get("id");
 
@@ -30,19 +29,16 @@ async function fetchProductDetails(productId) {
 function renderProductDetails(product) {
   const container = document.getElementById("product-details");
   container.innerHTML = `
-    <div class="product-detail">
-      <div class="product-image">
-        <img src="${product.imageUrl}" alt="${
-    product.Title
-  }"> <!-- Changed from product.name -->
+    <div class="product-container">
+      <div class="main-image">
+        <img src="${product.imageUrl}" alt="${product.Title}">
       </div>
       <div class="product-info">
-        <h1>${product.Title}</h1> <!-- Changed from product.name -->
-        <p class="price">$${product.price.toFixed(2)}</p>
-        <p class="description">${
-          product.shortdescription
-        }</p> <!-- Changed from product.description -->
-        <button class="add-to-cart">Add to Cart</button>
+         <img class="small-image" src="${product.imageUrl}" alt="Small ${product.Title}">
+        <h2 class="product-title">${product.Title}</h2>
+        <p class="product-description">${product.shortdescription}</p>
+     
+        <button class="view-btn">View Product Details</button>
       </div>
     </div>
   `;

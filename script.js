@@ -73,7 +73,7 @@ function renderProducts(page) {
           <p class="card-text">${product.shortdescription}</p>
           <div class="d-flex justify-content-between align-items-center">
             <span class="price">$${product.price.toFixed(2)}</span>
-            <a href="#" class="btn btn-primary">Add to Cart</a>
+    
           </div>
         </div>
       </div>
